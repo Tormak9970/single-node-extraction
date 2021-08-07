@@ -1,4 +1,4 @@
-module github.com/tormak9970/single-node-extractor
+module github.com/Tormak9970/single-node-extractor
 
 go 1.15
 
