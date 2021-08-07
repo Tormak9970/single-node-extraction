@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SWTOR-Slicers/tor-reader/logger"
-	"github.com/SWTOR-Slicers/tor-reader/reader"
-	"github.com/SWTOR-Slicers/tor-reader/reader/hash"
-	"github.com/SWTOR-Slicers/tor-reader/reader/tor"
+	"github.com/Tormak9970/single-node-extractor/logger"
+	"github.com/Tormak9970/single-node-extractor/reader"
+	"github.com/Tormak9970/single-node-extractor/reader/hash"
+	"github.com/Tormak9970/single-node-extractor/reader/tor"
 )
 
 //* build command: go build -o nodeExtractor.exe main.go

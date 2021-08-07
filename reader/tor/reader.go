@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/SWTOR-Slicers/tor-reader/logger"
-	"github.com/SWTOR-Slicers/tor-reader/reader"
+	"github.com/Tormak9970/single-node-extractor/logger"
+	"github.com/Tormak9970/single-node-extractor/reader"
 	"github.com/gammazero/workerpool"
 )
 
